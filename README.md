@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mari Fes</h1>
-<h3 align="center">Informatics Engineering Student</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 <p align="center">
   Building software one line at a time
