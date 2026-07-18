@@ -1,27 +1,24 @@
-<h1 align="center">Hola, soy Mari </h1>
-<h3 align="center">Estudiante de Ingeniería Informática</h3>
- 
+<h1 align="center">Hi there, I'm Mari Fes</h1>
+<h3 align="center">Informatics Engineering Student</h3>
+
 <p align="center">
-  Construyendo software una linea a la vez
+  Building software one line at a time
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marifesss&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 ---
- 
-###  En qué estoy ahora
--  Pasante en **Sales Intelligence** en Mondelēz, construyendo reportes y modelos de datos en Power BI + SQL Server
--  Desarrolladora de **Partela**, una fintech que saldra proximamente en Venezuela.
 
-###  Aprendiendo
-- Arquitectura de software a nivel profesional (Hexagonal, DDD, SOLID)
-- Cloud y sistemas distribuidos
+###  What I'm up to
+-  Intern in **Sales Intelligence** at Mondelēz, building reports and data models in Power BI + SQL Server
+-  Developer at **Partela**, a fintech startup launching soon in Venezuela
 
-###  Contacto
-- LinkedIn: www.linkedin.com/in/fesmariana
-  
-###  Dato curioso
-Cuando no estoy programando, probablemente esté jugando tenis, corriendo o haciendo musica.
- 
+###  Contact
+- LinkedIn: [www.linkedin.com/in/fesmariana](https://www.linkedin.com/in/fesmariana)
+- Email: marianafes15@gmail.com
+
+###  Fun fact
+When I'm not coding, I'm probably playing tennis, running, or making music.
+
 ---
-<p align="center"><i>Gracias por pasar por aquí ✨</i></p>
+<p align="center"><i>Thanks for stopping by ✨</i></p>
